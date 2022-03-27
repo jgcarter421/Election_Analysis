@@ -39,8 +39,7 @@ The candidates for this election were the following:
 
 ## Election-Audit Summary
 This code (scrpt) analyzing the election can be used for any election to determine vote counts, percentage, locations of the votes, and determine the winner.  Using this code, it will be much faster and more accurate to count and tally the votes of the election and determine the winner, rather than analyzing each vote by hand.  All that would be needed to do would be to change the variables.  For example, in a federal election, one could change the following:
-  county_options = [] to state_options = []
-  county votes = {} to state_votes ={}
-  and
-  largest_county = "" to largest_state = "".
+  * county_options = [] to state_options = []
+  * county votes = {} to state_votes ={} 
+  * largest_county = "" to largest_state = ""
   
